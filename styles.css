@@ -14,10 +14,9 @@ h1, h2{
 
 ul.a{
 		list-style-type: none;
-		text-decoration-line: none;
-	    
-    	
+		text-decoration-line: none;  	
 }
+
 #bear{
 		background-color: rgb(255, 255, 255); 
 		border-radius: 5px;

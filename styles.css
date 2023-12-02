@@ -12,9 +12,14 @@ h1, h2{
 	
 }
 
-ul.a{
-		list-style-type: none;
-		text-decoration-line: none;  	
+a:link {
+      text-decoration: none;
+}
+
+
+#a { 
+	
+	list-style-type: none;
 }
 
 #bear{

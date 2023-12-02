@@ -35,7 +35,7 @@ a:link {
 	background-color: rgb(255, 255, 255);
 }
 
-.player_two{
+#last, .player_two{
 	background-color: rgb(255, 255, 255);
 }
 
